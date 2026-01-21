@@ -1,8 +1,9 @@
 # MyPhone
 
-<img src="https://github.com/user-attachments/assets/3d5f27bb-cfdd-4067-ba49-e6c73b1885a1" alt="MyNetwerkPhone" width="500"/>
+<img width="1024" height="1024" alt="ChatGPT Image Jun 20, 2025, 05_24_59 PM" src="https://github.com/user-attachments/assets/94af0190-ab6d-4d56-bf38-d8abbd813f31" />
 
 ## Features
+
 
 ```
 🚫 No SIM Required      |    🆓 Secure Wifi Calling & Messaging
