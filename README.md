@@ -22,8 +22,6 @@ MyPhone is a voice-first, carrier-independent mobile computing platform powered 
 | 🔄 Landscape Mode | Console like play    | ✅ |
 | 👾 Retro Library  | Classics built-in    | ✅ |
 
-### Mesh Gaming Network
-
 ```mermaid
 graph TD
     A[Phone 1] -->|WiFi Direct| B[Phone 2]
