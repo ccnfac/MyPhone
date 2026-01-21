@@ -14,6 +14,11 @@ MyPhone is a voice-first, carrier-independent mobile computing platform powered 
 🛠️ Repairable design    |    🧠 Voice Orchestrator  
 ```
 
+## Offline-First Navigation
+
+* 📶 Maps download automatically over Wi-Fi before you need them
+* 📡 Navigate anywhere with GPS + preloaded maps (no internet needed)
+
 ## Gaming Powerhouse
 
 | Feature           | Description          | ✅ |
@@ -29,11 +34,6 @@ graph TD
     C -->|Voice Chat| D[Phone 4]
     D -->|Auto-Discovery| A
 ```
-
-## Offline-First Navigation
-
-* 📶 Maps download automatically over Wi-Fi before you need them
-* 📡 Navigate anywhere with GPS + preloaded maps (no internet needed)
 
 ## Secure Browser
 
