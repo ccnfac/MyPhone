@@ -45,7 +45,7 @@ graph TD
 
 
 ## Tech Specs
-Revolutionary
+
 ```yaml
 Processor:
   SoM: Snapdragon 8 Gen 3 Mobile Hardware Development Kit 
