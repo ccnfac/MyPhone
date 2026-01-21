@@ -14,7 +14,7 @@ MyPhone is a voice-first, carrier-independent mobile computing platform powered 
 🛠️ Repairable design    |    🧠 Voice Orchestrator  
 ```
 
-## Gaming Powerhouse: Switch Meets Smartphone
+## Gaming Powerhouse
 
 | Feature           | Description          | ✅ |
 | ----------------- | -------------------- | -  |
