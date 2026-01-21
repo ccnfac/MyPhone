@@ -1,5 +1,3 @@
-# MyPhone
-
 <img width="1024" height="1024" alt="ChatGPT Image Jun 20, 2025, 05_24_59 PM" src="https://github.com/user-attachments/assets/94af0190-ab6d-4d56-bf38-d8abbd813f31" />
 
 ## Features
