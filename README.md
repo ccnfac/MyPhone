@@ -41,7 +41,6 @@ graph TD
 | Privacy    | 🔴 Tracked       | 🟢 No Tracking  |
 | Utilities  | 🔴 Multiple Apps | 🟢 Agents       |
 
----
 
 ## Tech Specs
 Revolutionary
@@ -73,4 +72,3 @@ Accesories:
   Protective Case
 ```
 
----
