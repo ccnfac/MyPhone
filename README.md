@@ -63,6 +63,6 @@ Connectivity:
   3.5mm Jack, Stereo Speakers
 
 Accesories:
-  Protective Case, WiFi Direct Headphones
+  WiFi Direct Headphones, Protective Case
 ```
 
