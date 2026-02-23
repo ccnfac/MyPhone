@@ -1,5 +1,5 @@
 # MyPhone
-**The World’s First Voice Orchestrated, SIM Free Agentic Smartphone**
+**The World’s First Voice Orchestrated Agentic Smartphone**
 
 MyPhone is a mobile computing platform powered by open source Linux, designed for privacy, offline navigation, and peer-to-peer gaming.
 
