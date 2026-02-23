@@ -35,6 +35,17 @@ MyPhone is a voice-first, carrier-independent mobile computing platform powered 
 | Privacy    | 🔴 Tracked       | 🟢 No Tracking  |
 | Utilities  | 🔴 Multiple Apps | 🟢 Agents       |
 
+## MyWallet
+
+MyWallet is a quantum resilient vault grade Bitcoin custody system built directly into MyPhone. It uses an offline first signing model, one time sweep keys, and post quantum recovery paths to minimize exposure to future quantum attacks. No address reuse. No exposed resting keys. No custodians.
+
+### Key Principles
+
+- 🔐 **Hash‑Locked Vaults** — Funds rest behind hashed public keys (no exposed pubkeys at rest)
+- 🔁 **One‑Time Sweep Keys** — Every spend moves through an ephemeral address
+- ⏱️ **Minimal Exposure Window** — Pubkeys exist on‑chain only while funds are already moving
+- 🧬 **Post‑Quantum Recovery** — Optional PQ signature path with timelock fallback
+- 📵 **Offline Signing** — Vault mode disables radios; QR transfer only
 
 ## Tech Specs
 
