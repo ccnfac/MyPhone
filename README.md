@@ -1,7 +1,7 @@
 # MyPhone
 **The World’s First Voice Orchestrated, SIM Free Agentic Smartphone**
 
-MyPhone is a voice first mobile computing platform powered by open source Linux, on-device agents, and peer-to-peer networking. Designed for private communication, offline navigation, and gaming.
+MyPhone is a mobile computing platform powered by open source Linux, designed for privacy, offline navigation, and peer-to-peer gaming.
 
 <img width="1024" height="1024" alt="ChatGPT Image Jun 20, 2025, 05_24_59 PM" src="https://github.com/user-attachments/assets/94af0190-ab6d-4d56-bf38-d8abbd813f31" />
 
@@ -33,7 +33,7 @@ MyPhone is a voice first mobile computing platform powered by open source Linux,
 | ---------- | ---------------- | --------------- |
 | Banking    | 🔴 Multiple Apps | 🟢 All-in-One   |
 | Privacy    | 🔴 Tracked       | 🟢 No Tracking  |
-| Utilities  | 🔴 Multiple Apps | 🟢 Agents       |
+| Utilities  | 🔴 Multiple Apps | 🟢 Agentic      |
 
 ## MyWallet
 
