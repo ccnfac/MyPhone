@@ -23,7 +23,7 @@ MyPhone is a mobile computing platform powered by open source Linux, designed fo
 
 | Feature           | Description          | ✅ |
 | ----------------- | -------------------- | -  |
-| 🎯 P2P Gaming     | Wi-Fi / Wi-Fi Direct | ✅ |
+| 🎯 P2P Gaming     | Wi-Fi / Direct       | ✅ |
 | 🔄 Landscape Mode | Console like play    | ✅ |
 | 👾 Retro Library  | Classics built-in    | ✅ |
 
