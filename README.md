@@ -14,7 +14,7 @@ MyPhone is a mobile computing platform powered by open source Linux, designed fo
 🛠️ Repairable design    |    🧠 Voice Orchestrator  
 ```
 
-## Offline-First Navigation
+## Offline First Navigation
 
 * 📶 Maps download automatically over Wi-Fi before you need them
 * 📡 Navigate anywhere with GPS + preloaded maps (no internet needed)
