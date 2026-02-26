@@ -35,9 +35,9 @@ MyPhone is a mobile computing platform powered by open source Linux, designed fo
 | Privacy    | 🔴 Tracked       | 🟢 No Tracking  |
 | Utilities  | 🔴 Multiple Apps | 🟢 Agentic      |
 
-## MyWallet
+## MyCryptoWallet
 
-MyWallet is a quantum resilient vault grade Bitcoin custody system built directly into MyPhone. It uses an offline first signing model, one time sweep keys, and post quantum recovery paths to minimize exposure to future quantum attacks. No address reuse. No exposed resting keys. No custodians.
+MyCryptoWallet is a quantum resilient vault grade Bitcoin custody system built directly into MyPhone. It uses an offline first signing model, one time sweep keys, and post quantum recovery paths to minimize exposure to future quantum attacks. No address reuse. No exposed resting keys. No custodians.
 
 ### Key Principles
 
