@@ -44,8 +44,8 @@ MyCryptoWallet is a quantum resilient vault grade Bitcoin custody system built d
 - 🔐 **Hash‑Locked Vaults** — Funds rest behind hashed public keys (no exposed pubkeys at rest)
 - 🔁 **One‑Time Sweep Keys** — Every spend moves through an ephemeral address
 - ⏱️ **Minimal Exposure Window** — Pubkeys exist on‑chain only while funds are already moving
-- 🧬 **Post‑Quantum Recovery** — Optional PQ signature path with timelock fallback
-- 📵 **Offline Signing** — Vault mode disables radios; QR transfer only
+- 🧬 **Post‑Quantum Recovery** — PQ signature path with timelock fallback
+- 📵 **Offline Signing** — Vault mode disables radios, QR transfer only
 
 ## Tech Specs
 
