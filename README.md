@@ -51,7 +51,7 @@ MyCryptoWallet is a quantum resilient vault grade Bitcoin custody system built d
 
 ```yaml
 Processor:
-  SoM: Snapdragon 8 Gen 3 Mobile Hardware Development Kit 
+  Qualcomm QCS8550 Snapdragon
 
 Memory:
   RAM: 12GB
