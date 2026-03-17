@@ -19,6 +19,15 @@ MyPhone is a mobile computing platform powered by open source Linux, designed fo
 * 📶 Download maps over Wi-Fi before you need them
 * 📡 Navigate anywhere with GPS + preloaded maps (no internet needed)
 
+## Media Center
+
+| Feature            | Description                          | ✅ |
+| ------------------ | ------------------------------------ | -  |
+| 🎵 Audio Player    | Music, podcasts, and voice playback  | ✅ |
+| 🎬 Video Player    | Watch movies and clips offline       | ✅ |
+| 🖼️ Photo Gallery   | Organize and view photos             | ✅ |
+| 📄 Document Viewer | Open PDFs, text, and docs            | ✅ |
+
 ## Gaming Powerhouse
 
 | Feature           | Description          | ✅ |
