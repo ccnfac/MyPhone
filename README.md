@@ -187,10 +187,22 @@ Accessories:  Wi-Fi Direct headphones · protective case
 
 ---
 
-## MyCloud
+## MyCloud Subscription
 
-MyPhone connects to [MyCloud](https://github.com/ccnfac/MyCloud) — the shared private cloud for the product family. Matrix E2EE messaging and calls, encrypted backup, offline map sync, and software distribution. Server-blind by architecture: MyCloud stores only ciphertext and cannot read your data. The subscription is optional. Every core function on MyPhone — calls, navigation, media, wallet, gaming — works without it.
+MyPhone is fully functional with no account. The MyCloud subscription unlocks internet-dependent services at a single flat rate, covering all features across all your enrolled devices.
 
+| Feature                                   | Without subscription | With MyCloud subscription |
+|-------------------------------------------|----------------------|---------------------------|
+| Local media, voice control, retro gaming  | ✅                   | ✅                        |
+| Screen cast and local network features    | ✅ Local network     | ✅                        |
+| Matrix E2EE video calling (1:1 and group) | —                    | ✅                        |
+| MyCloud media sync (client-side E2EE)     | —                    | ✅                        |
+| Cross-device Netplay via internet relay   | —                    | ✅                        |
+| Encrypted settings and profile backup     | —                    | ✅                        |
+| MyCloud App Store                         | —                    | ✅                        |
+| OTA updates via MyCloud CDN               | Public repository    | MyCloud CDN               |
+
+See [MyCloud](https://github.com/ccnfac/MyCloud) for more info.
 <!--
 # MyPhone
 **The World’s First Voice Orchestrated Agentic Smartphone**
