@@ -4,8 +4,6 @@
 
 MyPhone is a security-first mobile computing platform built from the ground up on a formally verified microkernel. It is designed to resist advanced persistent threats while remaining genuinely usable as a daily driver.
 
-No SIM required. No telemetry. No compromises.
-
 <img width="1024" height="1024" alt="MyPhone" src="https://github.com/user-attachments/assets/94af0190-ab6d-4d56-bf38-d8abbd813f31" />
 
 ---
