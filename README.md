@@ -172,8 +172,8 @@ Storage:      512GB UFS 4.0 · expandable via 2TB MicroSD (FDE required)
 
 Display:      6.5" IPS FHD+ 120Hz · Gorilla Glass 5
 
-Camera:       Front: 50MP Sony IMX766 · 3D structured-light face recognition
-              Rear:  50MP Sony IMX586
+Camera:       Front - 50MP Sony IMX766 · 3D structured-light face recognition
+              Rear - 50MP Sony IMX586
 
 Biometrics:   3D structured-light face + Qualcomm 3D Sonic Max ultrasonic fingerprint
               All processing in seL4-isolated compartments · templates in SPU
