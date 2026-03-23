@@ -111,7 +111,7 @@ A unified offline library covering every media type in a single voice-searchable
 |----|---------------------|----------------------------------------------------------------------------------------------------------------|
 | 🎵 | **Audio Player**    | Music, podcasts, audiobooks. Gapless playback, smart playlists, background playback with lock-screen controls. |
 | 🎬 | **Video Player**    | Hardware-decoded video. Subtitles, A-B repeat, picture-in-picture, chapter navigation.                         |
-| 🖼️ | **Photo Gallery**   | Timeline view, on-device face recognition (never cloud), RAW editing, EXIF strip on share, secure delete.      |
+| 🖼️ | **Photo Gallery**   | Timeline view, RAW editing, EXIF strip on share, secure delete.                                                |
 | 📄 | **Document Viewer** | PDF, EPUB, MOBI, Markdown, code files. Full-text search across your entire library.                            |
 
 ---
