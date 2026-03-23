@@ -126,6 +126,9 @@ Three non-overlapping gaming modes. No third-party gaming accounts. No cloud gam
 | **Phone-to-Phone** | P2P mesh via Wi-Fi Direct. Up to 8 players. AES-256-GCM encrypted. No internet required.                                             |
 | **Cross-Device**   | RetroArch Netplay with a paired large-screen device. Controller input only — no video streaming. Session invitation via Matrix E2EE. |
 
+<img width="1536" height="1024" alt="controller_layout_2" src="https://github.com/user-attachments/assets/230d445e-59eb-4628-91b7-df7c12291588" />
+<img width="1536" height="1024" alt="controller_layout" src="https://github.com/user-attachments/assets/8c21d736-5842-45ba-be43-a96ce426fcab" />
+
 ---
 
 ## Secure Browser
