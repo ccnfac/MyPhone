@@ -2,7 +2,7 @@
 
 **The world's first voice-orchestrated, SIM-free, quantum-resilient agentic smartphone.**
 
-MyPhone is a security-first mobile computing platform built from the ground up on a formally verified microkernel. It is designed to resist advanced persistent threats — including Pegasus-class state-sponsored attacks — while remaining genuinely usable as a daily driver.
+MyPhone is a security-first mobile computing platform built from the ground up on a formally verified microkernel. It is designed to resist advanced persistent threats while remaining genuinely usable as a daily driver.
 
 No SIM required. No telemetry. No compromises.
 
