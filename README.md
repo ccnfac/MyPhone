@@ -1,6 +1,6 @@
 # MyPhone
 
-**The world's first voice-orchestrated, SIM-free, quantum-resilient agentic smartphone.**
+**The world's first voice-orchestrated agentic smartphone.**
 
 MyPhone is a security-first mobile computing platform built from the ground up on a formally verified microkernel. It is designed to resist advanced persistent threats while remaining genuinely usable as a daily driver.
 
