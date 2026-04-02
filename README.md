@@ -73,7 +73,7 @@ Every function on MyPhone is accessible by voice. The voice orchestrator runs en
 
 The only Bitcoin custody system built into a smartphone that treats the OS as an adversary.
 
-MyCryptoWallet uses a Cold Vault / Hot Wallet architecture where your public key is never exposed on-chain while funds are at rest. Shor's algorithm — the quantum attack that breaks standard Bitcoin key security — is useless against a key it can never see.
+MyCryptoWallet uses a Cold Vault / Hot Wallet architecture where your public key is never exposed on-chain while funds are at rest. 
 
 ### How it works
 
