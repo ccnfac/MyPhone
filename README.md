@@ -99,7 +99,7 @@ Lost your device? Recovery uses Shamir's Secret Sharing (default 3-of-5). Shares
 ```
 
 OpenStreetMap vector tiles. No tracking. No location data sent to any server. Your maps, on your device, forever.
-
+<!--
 ---
 
 ## Media Center
@@ -115,7 +115,7 @@ A unified offline library covering every media type in a single voice-searchable
 
 ---
 
-<!--
+
 ## Gaming
 
 Three non-overlapping gaming modes. No third-party gaming accounts. No cloud gaming services.
