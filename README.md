@@ -69,11 +69,11 @@ Every function on MyPhone is accessible by voice. The voice orchestrator runs en
 
 ---
 
-## MyCryptoWallet
+## MyWallet
 
 The only Bitcoin custody system built into a smartphone that treats the OS as an adversary.
 
-MyCryptoWallet uses a Cold Vault / Hot Wallet architecture where your public key is never exposed on-chain while funds are at rest. 
+MyWallet uses a Cold Vault / Hot Wallet architecture where your public key is never exposed on-chain while funds are at rest. 
 
 ### How it works
 
