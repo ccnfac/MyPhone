@@ -116,6 +116,7 @@ A unified offline library covering every media type in a single voice-searchable
 
 ---
 
+<!--
 ## Gaming
 
 Three non-overlapping gaming modes. No third-party gaming accounts. No cloud gaming services.
@@ -130,7 +131,7 @@ Three non-overlapping gaming modes. No third-party gaming accounts. No cloud gam
 <img width="1536" height="1024" alt="controller_layout_2" src="https://github.com/user-attachments/assets/230d445e-59eb-4628-91b7-df7c12291588" />
 
 ---
-
+-->
 ## Secure Browser
 
 A hardened Firefox ESR fork following the GrapheneOS/Vanadium model.
