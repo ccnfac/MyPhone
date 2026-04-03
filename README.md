@@ -76,12 +76,12 @@ MyWallet uses a Cold Vault / Hot Wallet architecture where your public key is ne
 
 ### How it works
 
-- 🔐 **Hash-Locked Vaults** — Funds rest behind hashed public keys. The raw public key is never on-chain until a spend is in motion.
-- 🔁 **One-Time Sweep Keys** — Every spend moves to a fresh address. No address reuse, ever.
-- ⏱️ **Minimal Exposure Window** — Public keys exist on-chain only while funds are already moving (~10 minutes).
-- 🧬 **Post-Quantum Recovery** — ML-KEM-1024 + ML-DSA-87 recovery path via the OPTIGA TPM. Hash-based SPHINCS+-256f for long-term recovery keys.
-- 📵 **Offline Signing** — Vault mode disables all radios. Transactions are prepared air-gapped and broadcast only when you choose.
-- 🛡️ **Pegasus-Proof** — Transaction signing happens inside the Qualcomm SPU, isolated from the OS by seL4's mathematical proof. A fully compromised OS cannot authorise a spend.
+- **Hash-Locked Vaults** — Funds rest behind hashed public keys. The raw public key is never on-chain until a spend is in motion.
+- **One-Time Sweep Keys** — Every spend moves to a fresh address. No address reuse, ever.
+- **Minimal Exposure Window** — Public keys exist on-chain only while funds are already moving (~10 minutes).
+- **Post-Quantum Recovery** — ML-KEM-1024 + ML-DSA-87 recovery path via the OPTIGA TPM. Hash-based SPHINCS+-256f for long-term recovery keys.
+- **Offline Signing** — Vault mode disables all radios. Transactions are prepared air-gapped and broadcast only when you choose.
+- **Pegasus-Proof** — Transaction signing happens inside the Qualcomm SPU, isolated from the OS by seL4's mathematical proof. A fully compromised OS cannot authorise a spend.
 
 ### Social Recovery
 
