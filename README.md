@@ -152,9 +152,6 @@ MyPhone uses your Wi-Fi connection for all calls and messages. No carrier requir
 
 - **Primary number** — A Telnyx mobile-classified number. Treated as wireless by carrier databases. E911 with dynamic GPS location. TLS + SRTP encrypted to the Telnyx backbone.
 - **MyPhone-to-MyPhone** — Calls and messages route automatically via Matrix E2EE. Zero PSTN exposure. Free and unlimited.
-- **Burner numbers** — Disposable Telnyx SIP numbers for temporary use, managed in a standalone app. Up to 3 active at once.
-
-Every call displays a clear encryption indicator so you always know what protection is in effect.
 
 ---
 
@@ -162,13 +159,12 @@ Every call displays a clear encryption indicator so you always know what protect
 
 ```yaml
 Processor:    Qualcomm QCS8550 (Snapdragon 8 Gen 2 silicon)
-              No integrated modem — baseband attack surface eliminated
 
 Security:     Qualcomm SPU (FIPS 140-2 validated)
-              Infineon OPTIGA TPM SLB 9672 (EAL4+, post-quantum)
+              Infineon OPTIGA TPM SLB 9672 
 
 Memory:       12GB LPDDR5X RAM
-Storage:      512GB UFS 4.0 · expandable via 2TB MicroSD (FDE required)
+Storage:      512GB UFS 4.0 · expandable via 2TB MicroSD 
 
 Display:      6.5" IPS FHD+ 120Hz · Gorilla Glass 5
 
@@ -176,12 +172,10 @@ Camera:       Front - 50MP Sony IMX766 · 3D structured-light face recognition
               Rear - 50MP Sony IMX586
 
 Biometrics:   3D structured-light face + Qualcomm 3D Sonic Max ultrasonic fingerprint
-              All processing in seL4-isolated compartments · templates in SPU
 
 Battery:      4500mAh · 45W USB-C PD fast charge
 
 Connectivity: Wi-Fi 6E (802.11ax 6GHz) · Bluetooth 5 · GPS
-              True electrical radio disconnect via hardware switch
 
 Accessories:  Wi-Fi Direct headphones · protective case
 ```
