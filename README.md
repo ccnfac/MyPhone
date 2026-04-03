@@ -25,7 +25,6 @@ The seL4 microkernel at the core of MyPhone carries a mathematical proof of memo
 ## At a Glance
 
 ```
-🚫 No SIM Required       |   🔐 Formally Verified Microkernel
 🌐 Global Compatibility  |   🧠 Voice Orchestrator
 📵 Offline-First         |   ₿  Quantum-Resilient Bitcoin Custody
 🛠️ Repairable Design     |   📞 Encrypted Wi-Fi Calling & Messaging
