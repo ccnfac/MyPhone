@@ -47,7 +47,7 @@ MyPhone treats the application layer as permanently compromised. Wallet keys, bi
 
 ## Voice Orchestration
 
-Every function on MyPhone is accessible by voice. The voice orchestrator runs entirely on-device — no audio reaches any server, ever.
+Every function on MyPhone is accessible by voice. The voice orchestrator runs entirely on-device.
 
 ```
 [ You      ] "Navigate to the nearest hardware store."
