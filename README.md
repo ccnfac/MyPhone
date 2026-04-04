@@ -20,9 +20,6 @@ From zero to practical invulnerability.
 
 The seL4 microkernel at the core of MyPhone carries a mathematical proof of memory isolation and access control. Security-critical services run in isolated compartments that a compromised application layer cannot reach.
 
----
-
-## At a Glance
 
 ```
 🌐 Global Compatibility  |   🧠 Voice Orchestrator
