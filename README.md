@@ -148,7 +148,7 @@ A hardened Firefox ESR fork following the GrapheneOS/Vanadium model.
 MyPhone uses your Wi-Fi connection for all calls and messages. No carrier required.
 
 - **Primary number** — A Telnyx mobile-classified number. Treated as wireless by carrier databases. E911 with dynamic GPS location. TLS + SRTP encrypted to the Telnyx backbone.
-- **MyPhone-to-MyPhone** — Calls and messages route automatically via Matrix E2EE. Zero PSTN exposure. Free and unlimited.
+- **MyPhone-to-MyPhone** — Calls and messages route automatically via Matrix E2EE. Zero PSTN exposure.
 
 ---
 
