@@ -176,7 +176,7 @@ Connectivity: Wi-Fi 6E (802.11ax 6GHz) · Bluetooth 5 · GPS
 
 Accessories:  Wi-Fi Direct headphones · protective case
 ```
-
+<!--
 ---
 
 ## MyCloud Subscription
@@ -195,7 +195,7 @@ MyPhone is fully functional with no account. The MyCloud subscription unlocks in
 | OTA updates via MyCloud CDN               | Public repository    | MyCloud CDN               |
 
 See [MyCloud](https://github.com/ccnfac/MyCloud) for more info.
-<!--
+
 # MyPhone
 **The World’s First Voice Orchestrated Agentic Smartphone**
 
