@@ -78,7 +78,7 @@ MyWallet uses a Cold Vault / Hot Wallet architecture where your public key is ne
 - **Minimal Exposure Window** — Public keys exist on-chain only while funds are already moving (~10 minutes).
 - **Post-Quantum Recovery** — ML-KEM-1024 + ML-DSA-87 recovery path via the OPTIGA TPM. Hash-based SPHINCS+-256f for long-term recovery keys.
 - **Offline Signing** — Vault mode disables all radios. Transactions are prepared air-gapped and broadcast only when you choose.
-- **Pegasus-Proof** — Transaction signing happens inside the Qualcomm SPU, isolated from the OS by seL4's mathematical proof. A fully compromised OS cannot authorise a spend.
+- **Tamper-Proof** — Transaction signing happens inside the Qualcomm SPU, isolated from the OS by seL4's mathematical proof. A fully compromised OS cannot authorise a spend.
 
 ### Social Recovery
 
